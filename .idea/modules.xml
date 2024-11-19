@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld001/HelloWorld001.iml" filepath="$PROJECT_DIR$/HelloWorld001/HelloWorld001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primitiva/Primitiva.iml" filepath="$PROJECT_DIR$/Primitiva/Primitiva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Simpson/Simpson.iml" filepath="$PROJECT_DIR$/Simpson/Simpson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpsonJava02/SimpsonJava02.iml" filepath="$PROJECT_DIR$/SimpsonJava02/SimpsonJava02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TablerosArrays/TablerosArrays.iml" filepath="$PROJECT_DIR$/TablerosArrays/TablerosArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-24-25-sv.iml" filepath="$PROJECT_DIR$/.idea/java-24-25-sv.iml" />
+    </modules>
+  </component>
+</project>
